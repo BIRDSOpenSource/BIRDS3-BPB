@@ -1,0 +1,37 @@
+Partlist
+
+Exported from HBPB_FM_v2.brd at 04/10/2018 20:26
+
+EAGLE Version 8.6.2 Copyright (c) 1988-2018 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value                              Package                           Library         Position (mil)        Orientation
+
+C7       0.1uF                              C0402                             Turo_collection (2117.12598 2134.84252) MR270
+C101     A3C-50DA-2DSA(71)_TUROA3C-50A-2DSA SHDR50W60P200_2X25_5000X400X44_TR Turo_collection (454.72441 2834.64567) R270
+C102     A3C-50DA-2DSA(71)_TUROA3C-50A-2DSA SHDR50W60P200_2X25_5000X400X44_TR Turo_collection (1568.89764 2834.64567) R270
+C103     A3C-50DA-2DSA(71)_TUROA3C-50A-2DSA SHDR50W60P200_2X25_5000X400X44_TR Turo_collection (1850.3937 2834.64567) R270
+C104     A3C-50DA-2DSA(71)_TUROA3C-50A-2DSA SHDR50W60P200_2X25_5000X400X44_TR Turo_collection (2505.90551 2834.64567) R270
+C105     A3C-50DA-2DSA(71)_TUROA3C-50A-2DSA SHDR50W60P200_2X25_5000X400X44_TR Turo_collection (2885.82677 2834.64567) R270
+C106     A3C-50DA-2DSA(71)_TUROA3C-50A-2DSA SHDR50W60P200_2X25_5000X400X44_TR Turo_collection (3305.11811 2834.64567) R270
+R5       0R                                 R3216                             Turo_collection (739.17323 1921.25984) MR90
+R6       0R                                 R3216                             Turo_collection (737.69685 2170.27559) MR270
+R7       0R                                 R3216                             Turo_collection (858.26772 1921.25984) MR90
+R8       0R                                 R3216                             Turo_collection (858.26772 2170.27559) MR270
+SJ1      SJ_BY_TURO                         SJ_TURO                           Turo_collection (240.15748 2634.84252) R180
+SJ2      0R                                 SJ_TURO                           Turo_collection (3513.77953 556.59449) R0
+SJ3      SJ_BY_TURO                         SJ_TURO                           Turo_collection (501.47638 795.27547) R180
+SJ4      SJ_BY_TURO                         SJ_TURO                           Turo_collection (2780.51181 2763.2874) MR0
+SJ5      SJ_BY_TURO                         SJ_TURO                           Turo_collection (2780.51181 2674.70472) MR0
+SP1      PSR-210154-12                      PIN1X12/90                        Turo_collection (267.71654 2322.83465) R90
+SP2      PSR-210154-12                      PIN1X12/90                        Turo_collection (3511.81102 1456.69291) R270
+SP3      PSR-210154-12                      PIN1X12/90                        Turo_collection (1456.69291 267.71654) R180
+SP4      PSR-210154-12                      PIN1X12/90                        Turo_collection (2322.83465 3511.81102) R0
+SP5      PSS-210204-12                      PIN1X12                           Turo_collection (850.3937 2480.31496) MR270
+SW1      MOLEX-CONN-2-0554600272            MOLEX-CONN-2-BIRDS                Turo_collection (106.29921 910.43307) R270
+SW2      MOLEX-CONN-2-0554600272            MOLEX-CONN-2-BIRDS                Turo_collection (3673.22835 2854.33071) R90
+SW3      MOLEX-CONN-2-0554600272            MOLEX-CONN-2-BIRDS                Turo_collection (106.29921 2972.44094) R270
+SW4      MOLEX-CONN-2-0554600272            MOLEX-CONN-2-BIRDS                Turo_collection (3673.22835 787.40157) R90
+T1       TMP36FSZ-REEL                      R_8                               Turo_collection (2264.76378 2130.90551) MR90
+U$1      GND_PAD                            GND_PAD                           Turo_collection (531.49606 3688.97638) R0
